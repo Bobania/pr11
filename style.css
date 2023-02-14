@@ -1,0 +1,38 @@
+h1 {
+  color: rebeccapurple;
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+
+
+* {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+main {
+    width: 960px;
+    margin: auto;
+}
+h3, h2, h1{ 
+    text-align: center    
+}
+
+span {
+    font-weight: bold;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+}
