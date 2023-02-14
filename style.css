@@ -9,7 +9,8 @@ img {
     margin: auto;
 }
 
-
+ p { text-indent: 25px;
+  }
 
 * {
     font-family: sans-serif;
@@ -21,7 +22,8 @@ main {
     margin: auto;
 }
 h3, h2, h1{ 
-    text-align: center    
+    text-align: center;
+        color:#110b52;
 }
 
 span {
@@ -35,4 +37,11 @@ nav li {
 nav ul {
     display: flex;
     justify-content: space-evenly;
+}
+footer {
+    text-align: center;
+}
+
+body {
+   background-color: #e8fdff; 
 }
